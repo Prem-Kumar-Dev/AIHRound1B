@@ -1,0 +1,55 @@
+# Adobe Hackathon 2025 - Round 1B Requirements
+# Semantic Document Intelligence with e5-small-v2
+
+# Core ML/NLP
+torch>=1.13.0,<2.0.0
+sentence-transformers>=2.2.0
+transformers>=4.21.0
+scikit-learn>=1.1.0
+numpy>=1.21.0
+
+# PDF Processing
+PyMuPDF>=1.20.0
+PyPDF2>=3.0.0
+
+# Utility
+tqdm>=4.64.0
+packaging>=21.0
+typing-extensions>=4.0.0
+
+# HTTP/Web (for model downloads only)
+requests>=2.28.0
+urllib3>=1.26.0
+certifi>=2022.0.0
+charset-normalizer>=2.1.0
+idna>=3.3
+
+# Hugging Face
+huggingface-hub>=0.10.0
+safetensors>=0.3.0
+tokenizers>=0.13.0
+
+# Data Processing
+PyYAML>=6.0
+regex>=2022.0.0
+filelock>=3.8.0
+
+# Math/Science
+scipy>=1.9.0
+sympy>=1.11.0
+networkx>=2.8.0
+mpmath>=1.2.0
+
+# Text Processing
+jinja2>=3.1.0
+MarkupSafe>=2.1.0
+
+# Performance
+joblib>=1.2.0
+threadpoolctl>=3.1.0
+
+# Image Processing (for PIL support)
+Pillow>=9.0.0
+
+# File System
+fsspec>=2022.8.0

@@ -1,0 +1,15 @@
+{
+  "persona": "Business Intelligence Analyst",
+  "job_to_be_done": "Analyze financial reports and market data to identify growth opportunities and risk factors for strategic planning",
+  "documents": [
+    "financial-report-q4.pdf",
+    "market-analysis-2024.pdf",
+    "competitor-overview.pdf"
+  ],
+  "processing_options": {
+    "max_sections": 20,
+    "min_relevance_threshold": 0.5,
+    "include_page_context": true,
+    "extract_subsections": true
+  }
+}

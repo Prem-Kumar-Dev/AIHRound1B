@@ -1,0 +1,16 @@
+{
+  "persona": "Culinary Content Creator",
+  "job_to_be_done": "Extract and categorize recipe information, cooking techniques, and meal planning ideas for food blog content creation",
+  "documents": [
+    "Breakfast Ideas.pdf",
+    "Lunch Ideas.pdf", 
+    "Dinner Ideas - Mains_1.pdf",
+    "Dinner Ideas - Sides_1.pdf"
+  ],
+  "processing_options": {
+    "max_sections": 30,
+    "min_relevance_threshold": 0.2,
+    "include_page_context": true,
+    "extract_subsections": true
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "persona": "Learning and Development Specialist",
+  "job_to_be_done": "Analyze Adobe Acrobat training materials and extract key learning objectives, features, and best practices for corporate training programs",
+  "documents": [
+    "Learn Acrobat - Create and Convert_1.pdf",
+    "Learn Acrobat - Edit_1.pdf",
+    "Learn Acrobat - Export_1.pdf",
+    "Learn Acrobat - Generative AI_1.pdf",
+    "Learn Acrobat - Share_1.pdf"
+  ],
+  "processing_options": {
+    "max_sections": 25,
+    "min_relevance_threshold": 0.4,
+    "include_page_context": true,
+    "extract_subsections": true
+  }
+}

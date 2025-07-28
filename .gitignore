@@ -1,0 +1,66 @@
+﻿# Adobe Hackathon 2025 - Round 1B Solution
+# Semantic Document Intelligence
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Testing
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.vscode/
+.idea/
+.spyderproject
+.spyproject
+.ropeproject
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+temp/
+*.log
+
+# Large files (keep models and wheels for offline operation)
+# Note: models/ and wheels/ are intentionally included for offline Docker builds

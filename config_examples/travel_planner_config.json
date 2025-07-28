@@ -1,0 +1,16 @@
+{
+  "persona": "Travel Planner",
+  "job_to_be_done": "Plan comprehensive travel itinerary and discover local attractions, restaurants, and cultural experiences in South of France",
+  "documents": [
+    "South of France - Cities.pdf",
+    "South of France - Cuisine.pdf",
+    "South of France - Things to Do.pdf",
+    "South of France - Restaurants and Hotels.pdf"
+  ],
+  "processing_options": {
+    "max_sections": 15,
+    "min_relevance_threshold": 0.3,
+    "include_page_context": true,
+    "extract_subsections": true
+  }
+}
