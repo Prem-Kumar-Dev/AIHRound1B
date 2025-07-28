@@ -56,7 +56,7 @@ Make sure you have [Git LFS installed](https://git-lfs.com), then run:
 
 ```bash
 git lfs install
-git clone https://github.com/<your-username>/AIHROUND1B.git
+git clone https://github.com/Prem-Kumar-Dev/AIHROUND1B.git
 cd AIHROUND1B
 ```
 
